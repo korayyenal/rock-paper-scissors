@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/korayyenal/rock-paper-scissors/compare/v0.2.1...v0.3.0) (2022-11-07)
+
+
+### Features
+
+* :sparkles: add game(), play the game five times ([ef65235](https://github.com/korayyenal/rock-paper-scissors/commit/ef6523588adbce886a1877b1077d19ec4cc8c2d2))
+
 ## [0.2.1](https://github.com/korayyenal/rock-paper-scissors/compare/v0.2.0...v0.2.1) (2022-11-07)
 
 
