@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/korayyenal/rock-paper-scissors/compare/v0.2.0...v0.2.1) (2022-11-07)
+
+
+### Bug Fixes
+
+* :bug: change function name - playerSelection() to playRound() ([bd86ba9](https://github.com/korayyenal/rock-paper-scissors/commit/bd86ba965503300a013af159b2249a143fff51d8))
+
 ## [0.2.0](https://github.com/korayyenal/rock-paper-scissors/compare/v0.1.0...v0.2.0) (2022-11-07)
 
 
