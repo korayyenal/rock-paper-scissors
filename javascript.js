@@ -4,6 +4,12 @@
 2. add a function which plays a single round of Rock Paper Scissors.
 */
 
+/* playRound() test
+const playerSelection = "rock";
+const computerSelection = getComputerChoice();
+console.log(playRound(playerSelection, computerSelection));
+*/
+
 function getComputerChoice() {
 // Returns a random integer from 1 to 3:
 x = Math.floor(Math.random() * 3) + 1;
