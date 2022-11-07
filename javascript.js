@@ -16,7 +16,8 @@ if (x === 1) {
 }
 }
 
-function playerSelection(playerSelection,computerSelection) {
+
+function playRound(playerSelection,computerSelection) {
     playerSelection = playerSelection.toLowerCase();
     computerSelection = computerSelection.toLowerCase();
 
